@@ -1,0 +1,64 @@
+body
+{
+    background-color: rgb(70, 4, 70);
+}
+*
+{
+   font-family: 'Times New Roman', Times, serif;
+}
+menu li
+{
+  background-color: rgba(255, 124, 255, 0.247);
+  color: rgb(70, 31, 70) ;
+ 
+  
+}
+menu li:hover
+{
+  color: rgb(177, 37, 177) ;
+
+}
+
+
+
+h1
+{
+    color: rgb(177, 37, 177) ;
+    font-size: 30px;
+}
+h2
+{
+    color: rgb(177, 37, 177) ;
+    font-size: 23px;
+}
+h3
+{
+    color: rgb(177, 37, 177) ;
+    font-size: 23px;
+}
+h4
+{
+    color: rgb(177, 37, 177) ;
+    font-size: 23px;
+    
+}
+main
+{
+    color: rgb(206, 145, 206) ;
+    font-size: 15px;
+    width: 70%;
+    
+}
+aside
+{
+   float: right;
+   width: 30%;
+   background-color: rgba(255, 124, 255, 0.247);
+}
+h5
+{
+   font-size: 25px;
+   color: rgb(206, 145, 206);
+}
+
+
